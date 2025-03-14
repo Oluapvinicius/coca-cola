@@ -1,4 +1,4 @@
-O que é um repositório no Git e qual a sua importância?
+ que é um repositório no Git e qual a sua importância?
 Um repositório GitHub permite que os desenvolvedores colaborem de forma remota e distribuída com uma ferramenta de versionamento instalada localmente. Os desenvolvedores usam uma interface de linha de comando para implementar funções no Git, um software de controle de versão.
 
 Qual a função do Git Bash?
@@ -47,3 +47,5 @@ Como o flex-grow funciona e qual o seu propósito no layout Flexbox?
 
 Explique a diferença entre flex-direction: column; e flex-direction: row;.
 A diferença entre flex-direction: column; e flex-direction: row; é que o primeiro organiza os itens em colunas, enquanto o segundo organiza os itens em linhas. 
+
+
