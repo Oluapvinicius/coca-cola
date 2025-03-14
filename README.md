@@ -1,7 +1,7 @@
 
 # COCA-COLA
 
-![](./img/Captura%20de%20Tela%202025-02-28%20%C3%A0s%2015.07.10.png)
+![](./img/coca-cola-preview.png)
 COCA COLA
 
 ![](./img/Captura%20de%20Tela%202025-03-14%20%C3%A0s%2016.38.31.png)
