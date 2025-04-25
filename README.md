@@ -16,4 +16,4 @@ O site foi desenvolvido utilizando boas práticas, como por exemplo tags semânt
 * Media Queries
 
 ## Autor
-[Paulo Vinicius]
+[Paulo Vinicius]# pikachu-lima
